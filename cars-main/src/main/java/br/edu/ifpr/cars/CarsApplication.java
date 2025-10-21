@@ -8,6 +8,7 @@ public class CarsApplication {
 
 	public static void main(String[] args) {
 		//NÃO usar em associações BIDIRECIONAIS
+		//mudei o nome
 		SpringApplication.run(CarsApplication.class, args);
 	}
 
